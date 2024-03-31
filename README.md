@@ -10,3 +10,5 @@ Fill in the details
 #define BLYNK_TEMPLATE_NAME ""
 #define BLYNK_AUTH_TOKEN ""
 ```
+
+This project helps and is integrated with temperature sensros, the bulbs (led bulbs )
