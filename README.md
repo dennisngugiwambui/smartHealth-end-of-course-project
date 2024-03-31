@@ -15,4 +15,6 @@ This project helps and is integrated with temperature sensros, the bulbs (led bu
 
 The node mcu is connected to D1, GND and E3E which connects it to temperature sensor. The temperature sensor gets the temperature for the body or sorrounding enviroment and sends these values to the website. 
 
-I am using 
+I am using BLYNK dashboard to make this dashboard. 
+
+Using the dashboard, I can turn on and off the led bulbs. 
