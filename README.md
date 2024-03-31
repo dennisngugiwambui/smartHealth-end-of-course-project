@@ -11,4 +11,6 @@ Fill in the details
 #define BLYNK_AUTH_TOKEN ""
 ```
 
-This project helps and is integrated with temperature sensros, the bulbs (led bulbs )
+This project helps and is integrated with temperature sensros, the bulbs (led bulbs ), node mcu and connecting wires. 
+
+The node mcu is connected to D1, GND and E3E which connects it to temperature sensor. 
